@@ -1,0 +1,1 @@
+!function(n){var o={test:function(){console.log("Test");var o=n(window).width(),t=n(window).height();console.log(o),n("pre").html(o+" x "+t)}};n(document).ready(function(){o.test()})}(jQuery);
